@@ -1,4 +1,8 @@
+site_name: The Landlab-ASPECT Project
+site_url:  https://landlab-aspect.github.io
+repo_name: landlab-aspect/landlab-aspect.github.io
+repo_url:  https://github.com/landlab-aspect
+plugins: []
 nav:
   - index.md
   - about.md
- 
