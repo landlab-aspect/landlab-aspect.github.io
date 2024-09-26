@@ -1,0 +1,6 @@
+name: landlab-aspect-website
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mkdocs
