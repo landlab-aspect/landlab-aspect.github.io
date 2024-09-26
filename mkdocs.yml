@@ -6,3 +6,6 @@ plugins: []
 nav:
   - index.md
   - about.md
+theme:
+  name: mkdocs
+  color_mode: dark
