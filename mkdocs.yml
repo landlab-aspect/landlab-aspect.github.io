@@ -1,11 +1,51 @@
 site_name: The Landlab-ASPECT Project
 site_url:  https://landlab-aspect.github.io
-repo_name: landlab-aspect/landlab-aspect.github.io
-repo_url:  https://github.com/landlab-aspect
+#repo_name: dealii/dealii
+#repo_url:  https://github.com/dealii/dealii
+
 plugins: []
 nav:
-  - index.md
+  - Home: index.md
   - about.md
+  - people.md
+  - blog.md
 theme:
-  name: mkdocs
-  color_mode: dark
+  name: material
+  features:
+    - navigation.tabs
+#    - navigation.sections
+    - navigation.expand
+    - navigation.top
+#    - navigation.indexes
+#    - navigation.path
+    - header.autohide
+    - toc.integrate
+    - toc.follow
+    - content.code.copy
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+  logo:    assets/clover57.png
+  favicon: assets/favicon.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: dark blue
+ 
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.blocks.html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+

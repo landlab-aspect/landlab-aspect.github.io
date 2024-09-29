@@ -4,3 +4,4 @@ channels:
   - defaults
 dependencies:
   - mkdocs
+  - mkdocs-material
