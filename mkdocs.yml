@@ -13,11 +13,11 @@ theme:
   name: material
   features:
     - navigation.tabs
-#    - navigation.sections
+    - navigation.sections
     - navigation.expand
     - navigation.top
-#    - navigation.indexes
-#    - navigation.path
+    - navigation.indexes
+    - navigation.path
     - header.autohide
     - toc.integrate
     - toc.follow
@@ -33,7 +33,6 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: dark blue
- 
 validation:
   omitted_files: warn
   absolute_links: warn
@@ -48,4 +47,12 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
+extra:
+  homepage: https://landlab-aspect.github.io
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/landlab-aspect
+  generator: false
+extra_css:
+  - stylesheets/extra.css
+copyright: Copyright &copy; 2024 by the authors

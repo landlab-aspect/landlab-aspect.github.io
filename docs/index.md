@@ -2,10 +2,9 @@
 title: Home
 hide:
   - navigation
-#  - toc
+  - toc
 ---
 #
-
 
 
 testing, 1,2,3mk
