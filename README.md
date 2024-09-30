@@ -1,10 +1,11 @@
 Source repository for the project website
 ====
 
+Available online at https://landlab-aspect.github.io/
+
 # Installation instructions for mkdocs
 
-    pip install mkdocs
-    pip install markdown-include
+    pip install mkdocs-material
 
 Alternatively you can use conda to install all packages into a new environment named `landlab-aspect-website` like this:
 
