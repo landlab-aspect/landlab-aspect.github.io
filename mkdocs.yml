@@ -28,7 +28,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
   logo:    assets/logo512.png
-  favicon: assets/favicon.png
+  favicon: assets/logo128.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
