@@ -4,7 +4,8 @@ site_url:  https://landlab-aspect.github.io
 #repo_url:  https://github.com/dealii/dealii
 
 plugins:
-  - blog
+  - blog:
+      blog_toc: false
 nav:
   - Home: index.md
   - about.md
@@ -56,4 +57,4 @@ extra:
   generator: false
 extra_css:
   - stylesheets/extra.css
-copyright: Copyright &copy; 2024 by the authors
+copyright: Copyright &copy; 2024-2025 by the authors
