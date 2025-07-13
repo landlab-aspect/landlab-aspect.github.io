@@ -3,12 +3,13 @@ site_url:  https://landlab-aspect.github.io
 #repo_name: dealii/dealii
 #repo_url:  https://github.com/dealii/dealii
 
-plugins: []
+plugins:
+  - blog
 nav:
   - Home: index.md
   - about.md
   - people.md
-  - blog.md
+  - blog/index.md
 theme:
   name: material
   features:
