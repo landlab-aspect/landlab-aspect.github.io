@@ -1,6 +1,8 @@
 ---
 date:
   created: 2025-07-01
+authors:
+  - tjhei
 ---
 
 # Coupling of MPI parallel Python and C++ simulations
@@ -10,6 +12,8 @@ date:
 ## Introduction
 
 In this article we document the experiments we performed to learn how to correctly couple a Python simulation code to a C++ simulation code, where both projects support parallel computations using MPI. We will need this for this project to couple [Landlab](https://landlab.csdms.io/) (for surface evolution, written in Python) and [ASPECT](https://aspect.geodynamics.org/) (for the interior, written in C++).
+
+<!-- more -->
 
 ## The parallel setup
 
