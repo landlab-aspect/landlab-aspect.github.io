@@ -18,6 +18,10 @@
   .md-tabs {
     display: block;
   }
+  .md-header__button.md-logo
+  {
+     display: block;
+  }
   .md-header__button.md-icon[for="__drawer"] {
     display: none;
   }

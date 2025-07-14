@@ -20,7 +20,7 @@ theme:
     - navigation.top
     - navigation.indexes
     - navigation.path
-    - header.autohide
+    # - header.autohide
     - toc.integrate
     - toc.follow
     - content.code.copy
@@ -29,6 +29,7 @@ theme:
     code: Roboto Mono
   icon:
     repo: fontawesome/brands/github
+    logo: logo
   logo:    assets/logo512.png
   favicon: assets/logo128.png
   palette:
