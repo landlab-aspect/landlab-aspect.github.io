@@ -40,6 +40,36 @@ Boston College
 
 <tr markdown="1">
 <td style="width:150px; text-align:center" markdown="1">
+![](assets/){ width=150px }
+</td>
+<td>
+<b>Biraj Borgohain</b><br>
+New Mexico Tech
+</td>
+</tr>
+
+<tr markdown="1">
+<td style="width:150px; text-align:center" markdown="1">
+![](assets/){ width=150px }
+</td>
+<td>
+<b>Daniel Douglas</b><br>
+Boston College
+</td>
+</tr>
+
+<tr markdown="1">
+<td style="width:150px; text-align:center" markdown="1">
+![](assets/){ width=150px }
+</td>
+<td>
+<b>Tian Gan</b><br>
+University of Colorado Boulder
+</td>
+</tr>
+
+<tr markdown="1">
+<td style="width:150px; text-align:center" markdown="1">
 ![Timo Heister](assets/timo-heister.jpg){ width=80px }
 </td>
 <td>
@@ -53,7 +83,27 @@ Clemson University
 ![](assets/){ width=150px }
 </td>
 <td>
+<b>Eric Hutton</b><br>
+University of Colorado Boulder
+</td>
+</tr>
+
+<tr markdown="1">
+<td style="width:150px; text-align:center" markdown="1">
+![](assets/){ width=150px }
+</td>
+<td>
 <b>Leif Karlstrom</b><br>
+University of Oregon
+</td>
+</tr>
+
+<tr markdown="1">
+<td style="width:150px; text-align:center" markdown="1">
+![](assets/){ width=150px }
+</td>
+<td>
+<b>Fredric Lam</b><br>
 University of Oregon
 </td>
 </tr>
